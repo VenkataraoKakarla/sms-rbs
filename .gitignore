@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow README
+!README.md
+
+# Allow gitignore itself
+!.gitignore
+
+# do not allow other files
+requirements.txt
+rbs.py
