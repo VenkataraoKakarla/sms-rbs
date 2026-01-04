@@ -26,10 +26,10 @@ Many financial events **cannot be identified from a single SMS**.
 
 ### Example
 - **March**  
-  ₹45,000 credited to your account  
+  ₹45,916 credited to your account  
 
 - **April**  
-  Salary of ₹45,000 credited  
+  Salary of ₹45,916 credited  
 
 Using April’s message, the system:
 - Tags **April as salary**
